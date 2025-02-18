@@ -1,8 +1,9 @@
 {
-  "name": "solana-bubble-map",
+  "name": "solana-bubble-checker",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "build": "echo 'No build step required'"
   },
   "dependencies": {
     "express": "^4.18.2",
